@@ -1,16 +1,36 @@
-## Hi there 👋
+# Здравствуй добрый путник, меня зовут Мария! 👋
+### Go-web backend developer 👩‍💻
 
-<!--
-**mariapizzeria/mariapizzeria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 Екатеринбург / Челябинск
 
-Here are some ideas to get you started:
+⚡️ Опыт в разработке - 2 года 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Специализируюсь на разработке монолитной и микросервисной архитектуры
+
+🛠 Основные технологии: 
+- Golang
+- HTTP
+- gRPS
+- Rest API
+- Docker &(compose)
+- Postgres
+- Redis
+- Kafka
+- Grafana / Prometheus
+- Postman
+
+🌱 Над чем работаю сейчас:
+- [Разработка чата]()
+- [Обновление сайта онлайн магазина]()
+
+## 🔗 Интересные ссылочки
+
+[![portfolio](https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+## :shipit: Интересные факты:
+
+1. В свободное время мне нравится искать старые, устаревшие сайты и бесплатно обновлять их
+2. Мечтаю написать статью на Habr
+3. Хочу проводить исследования и презентовать их на больших митапах 🌞

@@ -26,7 +26,6 @@
 ## 🔗 Интересные ссылочки
 
 [![portfolio](https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ## :shipit: Интересные факты:

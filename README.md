@@ -23,10 +23,7 @@
 - [Разработка чата]()
 - [Обновление сайта онлайн магазина](https://github.com/mariapizzeria/dobrynia-web-update)
 
-## 🔗 Интересные ссылочки
 
-[![portfolio](https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ## :shipit: Интересные факты:
 
